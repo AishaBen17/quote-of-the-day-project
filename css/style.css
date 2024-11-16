@@ -1,0 +1,71 @@
+h1 {
+    font-family: "impact";
+    font-size: 5rem;
+    color: #764744;
+    margin-bottom: 2rem;
+}
+.icon{
+    font-size: 60px;
+    color: #4b2d2d;
+    margin-bottom: 1rem;
+}
+
+h3 {
+    font-size: 1.7rem;
+    font-family:Cambria;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    color: #454b27;
+    font-weight: 500;
+}
+
+body {
+    background-color: #ede7d3;
+}
+
+.caption {
+    height: 700px;
+    margin-top: 10px;
+    background-image: url(../images/rm129-ploy-02-f.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+.content {
+    font-size: 2rem;
+    font-family: Cambria;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 30px;
+    color: #4b2d2d;
+    padding: 10px;
+}
+
+.author {
+    font-family: 'Segoe UI';
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+    color: #764744;
+}
+
+.but{
+    padding: 20px 50px;
+    color:#ede7d3;
+    background-color: #4b2d2d;
+    border-radius: 50px;
+    font-size: 18px;
+    border: 0;
+
+}
+
+.but:hover{
+    background-color: #647c54;
+
+   border: 1px solid #4b2d2d;
+}
+
+
+
+
+
